@@ -1,6 +1,5 @@
 package repository
 
-import android.provider.ContactsContract.Contacts.Photo
 import data.CombinedListModel
 import data.PhotoModel
 import data.PhotoService
